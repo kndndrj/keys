@@ -43,9 +43,9 @@
       "KC_DOT",
       "KC_SLSH",
       "RSFT_T(KC_NUHS)",
-      "KC_LALT",
+      "KC_LGUI",
       "MO(1)",
-      "LGUI_T(KC_SPC)",
+      "LALT_T(KC_SPC)",
       "KC_SPC",
       "MO(2)",
       "MO(3)"
